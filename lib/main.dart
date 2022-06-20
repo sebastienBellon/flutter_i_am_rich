@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("I Am Rich"),
+          title: const Text("I Am Rich"),
         ),
       ),
     ),
